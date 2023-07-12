@@ -1,6 +1,11 @@
 body{
     margin: 0px;
+    
 }
+.markap{
+    padding: opx;
+}
+
 
 .hed{
     display: flex;
@@ -83,4 +88,23 @@ body{
     border-radius: 10px;
     
 
+}
+.specialize{
+    text-align: center;
+    width: 700px;
+    margin: 0 150px;
+    background-color: rgb(210, 244, 244);
+}
+
+.parents{
+    display: flex;
+    padding: 05%;
+}
+.backed{
+    margin: 2%;
+    padding: 50px;
+    border-radius: 0 20px 50px 0;
+    box-shadow: 10px 5px 40px black;
+    border-left: 4px solid;
+    border-image: linear-gradient(blue, cyan)0 100%;
 }
