@@ -1,0 +1,86 @@
+body{
+    margin: 0px;
+}
+
+.hed{
+    display: flex;
+    background-color: antiquewhite;
+}
+.half{
+    width: 50%;
+    
+}
+.sumon{
+   text-align: center;
+   padding-top: 70px;
+}
+
+.sumon h3{
+    font-size:50PX;
+}.sumon h1{
+     background-color: tomato;
+     width: 300px;
+   margin-left: 100px;
+   border-radius: 10px;
+   color: rgb(231, 213, 249);
+
+}
+
+.sumon a{
+   background-color:black;
+   padding:5px 10px;
+   color: white;
+   text-decoration: none;
+   font-weight: 900;
+   font-family: Arial, Helvetica, sans-serif;
+   border-radius: 15px;
+}
+
+
+
+
+    
+
+.half img{
+    width: 400px;
+    border-radius: 100%;
+}
+
+.decoration{
+    display: flex;
+    margin-top: 20px;
+    
+    
+}
+.sec-create{
+    width: 50%;
+
+}
+.sec-create img{
+    width: 400px;
+}
+
+.stock{
+    margin-top: 150px;
+}
+
+.stock h1{
+    font-size: 50px;
+   font-family: 'Courier New', Courier, monospace;
+   color: darkslategray;
+}
+.stock p{
+    font-weight:20px;
+    
+}
+.sujon{
+    background-color: rgb(191, 193, 193);
+    padding:5px 10px ;
+    font-weight:1500px;
+    color: rgb(3, 24, 24);
+    text-decoration: none;
+    font-weight: bolder;
+    border-radius: 10px;
+    
+
+}
